@@ -22,17 +22,17 @@ The Jupyter notebook for this project can be found [here](Mobiles.ipynb).
 - **Model Name Cleanup:** Extracted storage-related substrings from model names and added to its own column for consistency.
 
 This is the original dataset:
-[](1_original_data.png)
+![Original Data](images/1_original_data.png)
 
 This is the data after cleaning and preparation:
-[](2_cleaned_data.png)
+![Cleaned Data](images/2_cleaned_data.png)
 
 ---
 
 ### Analysis
 The most prolific brands in the dataset were **Oppo**, **Apple**, **Honor**, and **Samsung**, based on the number of models released.
 
-[](3_top_brands.png)
+![Top Brands](images/3_top_brands.png)
 
 **Other Findings:**
 - Most phones in the dataset had **64 or 128 GB** of **internal storage**.
@@ -54,8 +54,8 @@ The most prolific brands in the dataset were **Oppo**, **Apple**, **Honor**, and
   - **Infinix** and **Realme** offered competitive prices across multiple features.
   - **Apple**, **Huawei** and **Samsung** had higher price-per-spec values than their competitors. Customers are paying for the brand and software of these devices more than they are paying for the higher specs, especially in the case of Apple.
 
-[](4_price_vs_ram.png)
-[](5_price_vs_storage.png)
+![Price vs. RAM](images/4_price_vs_ram.png)
+![Price vs. Storage](images/5_price_vs_storage.png)
 
 ---
 
@@ -64,4 +64,4 @@ The most prolific brands in the dataset were **Oppo**, **Apple**, **Honor**, and
 - **Average prices** for phones in the US **increased** over the years.
 - The increase in **RAM**, **storage space**, and **battery capacity** outpaced the increased prices, thus resulting in newer models having a **higher price-per-spec ratio**.
 
-[](6_price_per_year.png)
+![Price per Year](images/6_price_per_year.png)
